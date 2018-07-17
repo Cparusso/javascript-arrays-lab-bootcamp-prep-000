@@ -18,7 +18,7 @@ function appendKitten(name) {
   var newKittens = kittens.slice(0);
 
   newKittens.push(name);
-  
+
   return newKittens;
 }
 
